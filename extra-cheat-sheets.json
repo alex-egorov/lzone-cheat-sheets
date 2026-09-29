@@ -1,0 +1,2391 @@
+{
+  "LZone Cheat Sheets": {
+    "github": "lwindolf/lzone-cheat-sheets",
+    "filePattern": "^Cheat Sheets/(.*)\\.md$",
+    "type": "Cheat Sheet",
+    "category": "DevOps",
+    "stars": 341,
+    "forks": 525,
+    "last_updated": "2026-09-29"
+  },
+  "Video Tutorials": {
+    "github": "lwindolf/lzone-cheat-sheets",
+    "filePattern": "^Video Tutorials/(.*)\\.md$",
+    "type": "Tutorial",
+    "category": "DevOps",
+    "stars": 341,
+    "forks": 525,
+    "last_updated": "2026-09-29"
+  },
+  "Cognitive Load": {
+    "github": "zakirullin/cognitive-load",
+    "type": "Tutorial",
+    "category": "Programming",
+    "stars": 12496,
+    "forks": 300,
+    "last_updated": "2026-09-08"
+  },
+  "LearnXinYMinutes": {
+    "github": "adambard/learnxinyminutes-docs",
+    "type": "Tutorial",
+    "category": "Programming",
+    "stars": 12341,
+    "forks": 3676,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome Python": {
+    "github": "vinta/awesome-python",
+    "filePattern": "^(README)\\.md$",
+    "type": "Awesome",
+    "category": "Programming",
+    "stars": 319357,
+    "forks": 28691,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome GraphQL": {
+    "github": "chentsulin/awesome-graphql",
+    "type": "Awesome",
+    "category": "Programming",
+    "stars": 15114,
+    "forks": 1242,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome Cheat Sheets": {
+    "github": "detailyang/awesome-cheatsheet",
+    "type": "Awesome",
+    "category": "Programming",
+    "stars": 8551,
+    "forks": 1070,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome CS Courses": {
+    "github": "prakhar1989/awesome-courses",
+    "type": "Awesome",
+    "category": "Programming",
+    "stars": 70979,
+    "forks": 8401,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome Public Datasets": {
+    "github": "awesomedata/awesome-public-datasets",
+    "type": "Awesome",
+    "category": "Programming",
+    "stars": 78872,
+    "forks": 11834,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome OSINT": {
+    "github": "jivoi/awesome-osint",
+    "type": "Awesome",
+    "category": "Security",
+    "stars": 29222,
+    "forks": 3988,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome OpenPolicyAgent": {
+    "github": "StyraInc/awesome-opa",
+    "type": "Awesome",
+    "category": "Security",
+    "stars": 830,
+    "forks": 78,
+    "last_updated": "2025-08-03"
+  },
+  "Awesome Design Patterns": {
+    "github": "DovAmir/awesome-design-patterns",
+    "type": "Awesome",
+    "category": "Architecture",
+    "stars": 48860,
+    "forks": 3301,
+    "last_updated": "2026-09-08"
+  },
+  "Awesome Scalability": {
+    "github": "binhnguyennus/awesome-scalability",
+    "filePattern": "^(README)\\.md$",
+    "type": "Awesome",
+    "category": "Architecture",
+    "stars": 73810,
+    "forks": 7117,
+    "last_updated": "2026-09-08"
+  },
+  "Learning freeCodeCamp": {
+    "github": "freeCodeCamp/freeCodeCamp",
+    "filePattern": "^(README)\\.md$",
+    "category": "Programming",
+    "type": "Tutorial",
+    "stars": 455238,
+    "forks": 46156,
+    "last_updated": "2026-09-08"
+  },
+  "Learn Regex": {
+    "github": "ziishaned/learn-regex",
+    "filePattern": "^(README)\\.md$",
+    "category": "Programming",
+    "type": "Cheat Sheet",
+    "stars": 46089,
+    "forks": 6125,
+    "last_updated": "2026-09-08"
+  },
+  "Github Cheat Sheet": {
+    "github": "tiimgreen/github-cheat-sheet",
+    "filePattern": "^(README)\\.md$",
+    "category": "Programming",
+    "type": "Cheat Sheet",
+    "stars": 58941,
+    "forks": 5451,
+    "last_updated": "2026-09-08"
+  },
+  "devhints.io": {
+    "github": "rstacruz/cheatsheets",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 14456,
+    "forks": 3584,
+    "last_updated": "2026-09-08"
+  },
+  "WTFJS": {
+    "github": "denysdovhan/wtfjs",
+    "filePattern": "^(README)\\.md$",
+    "category": "Programming",
+    "type": "Book",
+    "stars": 37677,
+    "forks": 2679,
+    "last_updated": "2026-09-08"
+  },
+  "JS Promise Cookbook": {
+    "github": "mattdesl/promise-cookbook",
+    "filePattern": "^(README)\\.md$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 1612,
+    "forks": 189,
+    "last_updated": "2026-09-08"
+  },
+  "Typescript Handbook": {
+    "github": "microsoft/TypeScript-Website",
+    "filePattern": "^packages/documentation/copy/en/handbook-v2/(.+)\\.md$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 2553,
+    "forks": 1523,
+    "last_updated": "2026-09-08"
+  },
+  "Pure Bash Bible": {
+    "github": "dylanaraps/pure-bash-bible",
+    "filePattern": "^(README)\\.md$",
+    "category": "DevOps",
+    "type": "Book",
+    "stars": 41723,
+    "forks": 3645,
+    "last_updated": "2026-09-08"
+  },
+  "Bash Handbook": {
+    "github": "denysdovhan/bash-handbook",
+    "category": "DevOps",
+    "type": "Book",
+    "stars": 6084,
+    "forks": 758,
+    "last_updated": "2026-09-08"
+  },
+  "Bash Streams Handbook": {
+    "github": "miguelmota/bash-streams-handbook",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 263,
+    "forks": 20,
+    "last_updated": "2026-09-08"
+  },
+  "Learn Vim": {
+    "github": "iggredible/Learn-Vim",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 15213,
+    "forks": 1136,
+    "last_updated": "2026-09-08"
+  },
+  "FastAI Fastbook": {
+    "github": "fastai/fastbook",
+    "filePattern": "^(README)\\.md$",
+    "category": "ML",
+    "type": "Book",
+    "stars": 25272,
+    "forks": 9477,
+    "last_updated": "2026-09-08"
+  },
+  "OWASP Cheat Sheets Series": {
+    "github": "OWASP/CheatSheetSeries",
+    "filePattern": "^cheatsheets/(.+)\\.md$",
+    "category": "Security",
+    "type": "Cheat Sheet",
+    "stars": 33123,
+    "forks": 4618,
+    "last_updated": "2026-09-08"
+  },
+  "eg Cheat Sheets": {
+    "github": "srsudar/eg",
+    "filePattern": "^eg/examples/([^/]+)\\.md$",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 2041,
+    "forks": 111,
+    "last_updated": "2026-09-08"
+  },
+  "Free Programming Books": {
+    "github": "EbookFoundation/free-programming-books",
+    "filePattern": "^books/free-programming-books-(langs|subjects)\\.md$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 396291,
+    "forks": 66745,
+    "last_updated": "2026-09-08"
+  },
+  "How Programming Works": {
+    "github": "HowProgrammingWorks/Book",
+    "filePattern": "^content/en/([^/]+)\\.md$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 499,
+    "forks": 85,
+    "last_updated": "2026-09-08"
+  },
+  "The JS Way": {
+    "github": "thejsway/thejsway",
+    "filePattern": "^manuscript/([^/]+)\\.md$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 7879,
+    "forks": 793,
+    "last_updated": "2026-09-08"
+  },
+  "reactnative.guide": {
+    "github": "react-made-native-easy/book",
+    "filePattern": "^[^/]+/([^/]+)\\.md$",
+    "category": "Development",
+    "type": "Book"
+  },
+  "Little Go Book": {
+    "github": "karlseguin/the-little-go-book",
+    "filePattern": "^en/(go)\\.md$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 2344,
+    "forks": 277,
+    "last_updated": "2026-09-08"
+  },
+  "Little MongoDB Book": {
+    "github": "karlseguin/the-little-mongodb-book",
+    "filePattern": "^en/(.+).markdown$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 1487,
+    "forks": 347,
+    "last_updated": "2026-09-14"
+  },
+  "Little Redis Book": {
+    "github": "karlseguin/the-little-redis-book",
+    "filePattern": "^en/(.+)\\.md$",
+    "category": "Development",
+    "type": "Book",
+    "stars": 1461,
+    "forks": 485,
+    "last_updated": "2026-09-14"
+  },
+  "30s-of-code JS": {
+    "github": "30-seconds/30-seconds-of-code",
+    "filePattern": "^snippets/js/s/(.+)\\.md$",
+    "category": "Development",
+    "type": "Cheat Sheet"
+  },
+  "Interview Questions: 30s-of-code JS": {
+    "github": "30-seconds/30-seconds-of-interviews",
+    "filePattern": "^questions/(.+)\\.md$",
+    "category": "Development",
+    "type": "Cheat Sheet"
+  },
+  "30s-of-code Python": {
+    "github": "30-seconds/30-seconds-of-python",
+    "filePattern": "^snippets/(.+)\\.md$",
+    "category": "Development",
+    "type": "Cheat Sheet"
+  },
+  "30s-of-code CSS": {
+    "github": "30-seconds/30-seconds-of-css",
+    "filePattern": "^snippets/(.+)\\.md$",
+    "category": "Development",
+    "type": "Cheat Sheet"
+  },
+  "30s-of-code Git": {
+    "github": "30-seconds/30-seconds-of-git",
+    "filePattern": "^snippets/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Cheat Sheet"
+  },
+  "Puppet Handbook": {
+    "github": "abhishekjt/puppet-handbook",
+    "filePattern": "^(README)\\.md$",
+    "type": "Book",
+    "category": "DevOps"
+  },
+  "Documentation Puppet": {
+    "github": "puppetlabs/puppet-docs",
+    "filePattern": "^source/puppet/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 221,
+    "forks": 299,
+    "last_updated": "2026-09-14"
+  },
+  "Geo Data Science Book": {
+    "github": "gdsbook/book",
+    "filePattern": "^notebooks/(.+)\\.md$",
+    "category": "ML",
+    "type": "Book",
+    "stars": 367,
+    "forks": 105,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: Android": {
+    "github": "amitshekhariitbhu/android-interview-questions",
+    "filePattern": "^(README)\\.md$",
+    "category": "ML",
+    "type": "Interview",
+    "stars": 12372,
+    "forks": 2385,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: Data Science": {
+    "github": "alexeygrigorev/data-science-interviews",
+    "filePattern": "^(.+)\\.md$",
+    "category": "ML",
+    "type": "Interview",
+    "stars": 10141,
+    "forks": 2153,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: Linux Sysadmin": {
+    "github": "chassing/linux-sysadmin-interview-questions",
+    "filePattern": "^(README)\\.md$",
+    "category": "DevOps",
+    "type": "Interview",
+    "stars": 5337,
+    "forks": 1216,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: FAANG": {
+    "github": "ombharatiya/FAANG-Coding-Interview-Questions",
+    "filePattern": "^(.+)\\.md$",
+    "category": "Development",
+    "type": "Interview",
+    "stars": 5930,
+    "forks": 1417,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: ML": {
+    "github": "Sroy20/machine-learning-interview-questions",
+    "filePattern": "^(.+)\\.md$",
+    "category": "ML",
+    "type": "Interview",
+    "stars": 1663,
+    "forks": 398,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: System Design": {
+    "github": "shashank88/system_design",
+    "filePattern": "^(.+)\\.md$",
+    "category": "Architecture",
+    "type": "Interview",
+    "stars": 9256,
+    "forks": 2489,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: System Design and Architecture": {
+    "github": "puncsky/system-design-and-architecture",
+    "category": "Architecture",
+    "type": "Interview",
+    "stars": 3569,
+    "forks": 692,
+    "last_updated": "2026-09-14"
+  },
+  "Interview Questions: Java": {
+    "github": "in28minutes/interview-guide",
+    "filePattern": "^(.+)\\.md$",
+    "category": "Development",
+    "type": "Interview",
+    "stars": 309,
+    "forks": 231,
+    "last_updated": "2026-09-14"
+  },
+  "Meta Checklist": {
+    "github": "huyingjie/Checklist-Checklist",
+    "filePattern": "^(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 2969,
+    "forks": 138,
+    "last_updated": "2026-09-14"
+  },
+  "Documentation Helm": {
+    "github": "helm/helm-www",
+    "filePattern": "^content/en/docs/(.+).md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 230,
+    "forks": 624,
+    "last_updated": "2026-09-29"
+  },
+  "k8s the hard way": {
+    "github": "kelseyhightower/kubernetes-the-hard-way",
+    "filePattern": "^docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 50252,
+    "forks": 15931,
+    "last_updated": "2026-09-29"
+  },
+  "k8s NetworkPolicy Tutorial": {
+    "github": "networkpolicy/tutorial",
+    "filePattern": "^(README)\\.md$",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 156,
+    "forks": 33,
+    "last_updated": "2026-09-29"
+  },
+  "k8s Istio Tutorial": {
+    "github": "kelseyhightower/istio-ingress-tutorial",
+    "filePattern": "^docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 320,
+    "forks": 54,
+    "last_updated": "2026-09-29"
+  },
+  "k8s Nomand Tutorial": {
+    "github": "kelseyhightower/nomad-on-kubernetes",
+    "filePattern": "^docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 355,
+    "forks": 49,
+    "last_updated": "2026-09-29"
+  },
+  "k8s Tekton Tutorial": {
+    "github": "harbur/tekton-tutorial",
+    "filePattern": "^(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 9,
+    "forks": 13,
+    "last_updated": "2026-09-29"
+  },
+  "Tekton 101": {
+    "github": "dewan-ahmed/Tekton101",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 9,
+    "forks": 26,
+    "last_updated": "2026-09-29"
+  },
+  "k8s CKAD Tutorial": {
+    "github": "madhank93/learn-k8s-ckad",
+    "category": "DevOps",
+    "type": "Tutorial",
+    "stars": 29,
+    "forks": 13,
+    "last_updated": "2026-09-29"
+  },
+  "Python Machine Learning": {
+    "github": "rasbt/python-machine-learning-book-3rd-edition",
+    "filePattern": "^([^/]+)/README.md$",
+    "category": "ML",
+    "type": "Book",
+    "stars": 5064,
+    "forks": 2056,
+    "last_updated": "2026-09-29"
+  },
+  "IMDB Data in the Terminal": {
+    "github": "vvijayan1/imdb_data_on_terminal",
+    "category": "ML",
+    "type": "Tutorial",
+    "stars": 7,
+    "forks": 0,
+    "last_updated": "2026-09-29"
+  },
+  "System Design 101": {
+    "github": "ByteByteGoHq/system-design-101",
+    "filePattern": "^(README)\\.md$",
+    "category": "DevOps",
+    "type": "Interview",
+    "stars": 90102,
+    "forks": 10005,
+    "last_updated": "2026-09-29"
+  },
+  "System Design Primer": {
+    "github": "donnemartin/system-design-primer",
+    "filePattern": "^(README.*)\\.md$",
+    "category": "DevOps",
+    "type": "Interview",
+    "stars": 372530,
+    "forks": 58683,
+    "last_updated": "2026-09-29"
+  },
+  "Cloud Outages Index": {
+    "github": "lwindolf/cloud-outages",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 3,
+    "forks": 0,
+    "last_updated": "2026-09-29"
+  },
+  "Learn To Cloud": {
+    "github": "learntocloud/learn-to-cloud",
+    "filePattern": "^docs/(.*)/README.md$",
+    "type": "Tutorial",
+    "category": "DevOps",
+    "stars": 5774,
+    "forks": 904,
+    "last_updated": "2026-09-29"
+  },
+  "Google Cloud Guide": {
+    "github": "mikeroyal/Google-Cloud-Guide",
+    "type": "Cheat Sheet",
+    "category": "DevOps",
+    "stars": 205,
+    "forks": 64,
+    "last_updated": "2026-09-29"
+  },
+  "Awesome Security": {
+    "github": "zbetcheckin/Security_list",
+    "type": "Awesome",
+    "category": "Security",
+    "stars": 1884,
+    "forks": 347,
+    "last_updated": "2026-09-29"
+  },
+  "Awesome Cloud Security": {
+    "github": "4ndersonLin/awesome-cloud-security",
+    "type": "Awesome",
+    "category": "Security",
+    "stars": 2493,
+    "forks": 383,
+    "last_updated": "2026-09-29"
+  },
+  "Awesome AWS Security": {
+    "github": "jassics/awesome-aws-security",
+    "type": "Awesome",
+    "category": "Security",
+    "stars": 1601,
+    "forks": 333,
+    "last_updated": "2026-09-29"
+  },
+  "AWSCookbook Security": {
+    "github": "AWSCookbook/Security",
+    "filePattern": "^(.*)/README.md",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 51,
+    "forks": 44,
+    "last_updated": "2026-09-29"
+  },
+  "Awesome k8s Security": {
+    "github": "magnologan/awesome-k8s-security",
+    "type": "Awesome",
+    "category": "Security",
+    "stars": 2011,
+    "forks": 306,
+    "last_updated": "2026-09-29"
+  },
+  "Reverse Shells": {
+    "github": "d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet",
+    "type": "Cheat Sheet",
+    "category": "Security"
+  },
+  "Xapax Security": {
+    "github": "xapax/security",
+    "filePattern": "^docs/(.+)\\.md$",
+    "type": "Cheat Sheet",
+    "category": "Security",
+    "stars": 1046,
+    "forks": 518,
+    "last_updated": "2026-09-14"
+  },
+  "Azure Powershell": {
+    "github": "andreipintica/Azure-PowerShell-CheatSheet",
+    "type": "Cheat Sheet",
+    "category": "DevOps",
+    "stars": 121,
+    "forks": 154,
+    "last_updated": "2026-09-14"
+  },
+  "Awesome Azure Architecture": {
+    "github": "lukemurraynz/awesome-azure-architecture",
+    "type": "Awesome",
+    "category": "Cloud",
+    "stars": 1724,
+    "forks": 356,
+    "last_updated": "2026-09-14"
+  },
+  "Azure Monitoring Baseline": {
+    "github": "Azure/azure-monitor-baseline-alerts",
+    "filePattern": "^docs/content/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Cloud",
+    "stars": 322,
+    "forks": 348,
+    "last_updated": "2026-09-14"
+  },
+  "Azure Security": {
+    "github": "MicrosoftDocs/security",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 268,
+    "forks": 181,
+    "last_updated": "2026-09-14"
+  },
+  "MS Architecture Center": {
+    "github": "MicrosoftDocs/architecture-center",
+    "filePattern": "^docs/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Architecture",
+    "stars": 2020,
+    "forks": 1839,
+    "last_updated": "2026-09-14"
+  },
+  "Documentation Powershell": {
+    "github": "MicrosoftDocs/PowerShell-Docs",
+    "filePattern": "^reference/docs-conceptual/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 2542,
+    "forks": 1719,
+    "last_updated": "2026-09-14"
+  },
+  "MS Virtualization": {
+    "github": "MicrosoftDocs/Virtualization-Documentation",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 1923,
+    "forks": 1506,
+    "last_updated": "2026-09-14"
+  },
+  "Architecture Books": {
+    "github": "mhadidg/software-architecture-books",
+    "type": "Awesome",
+    "category": "Architecture",
+    "stars": 11325,
+    "forks": 888,
+    "last_updated": "2026-09-01"
+  },
+  "Architecture Enterprise Patterns": {
+    "github": "chanakaudaya/solution-architecture-patterns",
+    "type": "Documentation",
+    "category": "Architecture",
+    "stars": 3466,
+    "forks": 676,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks Prometheus Operator": {
+    "github": "prometheus-operator/runbooks",
+    "filePattern": "^content/runbooks/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 121,
+    "forks": 208,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks Openshift": {
+    "github": "openshift/runbooks",
+    "filePattern": "^alerts/(.+)\\.md$",
+    "type": "Runbook",
+    "category": "DevOps",
+    "stars": 105,
+    "forks": 154,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks Container Solutions": {
+    "github": "ContainerSolutions/runbooks",
+    "filePattern": "^content/posts/(.+)\\.md$",
+    "type": "Runbook",
+    "category": "DevOps",
+    "stars": 128,
+    "forks": 48,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks Example": {
+    "github": "sstafford/ops_runbook",
+    "type": "Runbook",
+    "category": "DevOps",
+    "stars": 32,
+    "forks": 43,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks Concept": {
+    "github": "iworkforthem/runbook",
+    "type": "Runbook",
+    "category": "DevOps",
+    "stars": 1,
+    "forks": 0,
+    "last_updated": "2026-09-01"
+  },
+  "AWS S3 Python": {
+    "github": "nagwww/aws-s3-book",
+    "type": "Book",
+    "category": "DevOps",
+    "stars": 31,
+    "forks": 14,
+    "last_updated": "2026-09-01"
+  },
+  "AWS Serverless Workshop": {
+    "github": "aws-samples/aws-serverless-workshops",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Cloud",
+    "stars": 4257,
+    "forks": 2599,
+    "last_updated": "2026-09-01"
+  },
+  "AWS EKS Workshop": {
+    "github": "aws-samples/eks-workshop-v2",
+    "filePattern": "^website/docs/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Cloud",
+    "stars": 624,
+    "forks": 607,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks AWS Incidents": {
+    "github": "aws-samples/aws-incident-response-playbooks",
+    "filePattern": "^playbooks/(.+)\\.md$",
+    "type": "Runbook",
+    "category": "Cloud",
+    "stars": 1102,
+    "forks": 232,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks Security Incident": {
+    "github": "redar0n/incident-runbook",
+    "type": "Runbook",
+    "category": "Security",
+    "stars": 52,
+    "forks": 8,
+    "last_updated": "2026-09-01"
+  },
+  "Runbooks Pentesting": {
+    "github": "IlyasKadi/runbook",
+    "type": "Runbook",
+    "category": "Security",
+    "stars": 1,
+    "forks": 3,
+    "last_updated": "2026-09-01"
+  },
+  "OS Tutorial": {
+    "github": "cfenollosa/os-tutorial",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 30687,
+    "forks": 3560,
+    "last_updated": "2026-09-01"
+  },
+  "Awesome Programming Projects": {
+    "github": "practical-tutorials/project-based-learning",
+    "filePattern": "^(README)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 281709,
+    "forks": 36110,
+    "last_updated": "2026-09-01"
+  },
+  "RabbitMQ Client Tutorials": {
+    "github": "rabbitmq/rabbitmq-tutorials",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 6891,
+    "forks": 3547,
+    "last_updated": "2026-09-01"
+  },
+  "Documentation RabbitMQ": {
+    "github": "rabbitmq/rabbitmq-website",
+    "filePattern": "^site/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 1221,
+    "forks": 819,
+    "last_updated": "2026-09-01"
+  },
+  "Java 8 Tutorial": {
+    "github": "winterbe/java8-tutorial",
+    "filePattern": "^(README)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 16723,
+    "forks": 3989,
+    "last_updated": "2026-09-01"
+  },
+  "Modern C++ Tutorial": {
+    "github": "changkun/modern-cpp-tutorial",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 25789,
+    "forks": 3117,
+    "last_updated": "2026-09-01"
+  },
+  "Javascript Functional Programming": {
+    "github": "MostlyAdequate/mostly-adequate-guide",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 23823,
+    "forks": 1878,
+    "last_updated": "2026-09-01"
+  },
+  "Javascript NPM with ES Modules": {
+    "github": "transitive-bullshit/npm-es-modules",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 75,
+    "forks": 10,
+    "last_updated": "2026-09-01"
+  },
+  "Javascript ES6 Cheatsheet": {
+    "github": "DrkSephy/es6-cheatsheet",
+    "type": "Cheat Sheet",
+    "category": "Programming",
+    "stars": 13307,
+    "forks": 1110,
+    "last_updated": "2026-09-22"
+  },
+  "DevOps Video Tutorials": {
+    "github": "antonputra/tutorials",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 4692,
+    "forks": 3108,
+    "last_updated": "2026-09-22"
+  },
+  "Ansible Tutorial": {
+    "github": "leucos/ansible-tuto",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 2295,
+    "forks": 704,
+    "last_updated": "2026-09-22"
+  },
+  "SAP Tutorials": {
+    "github": "sap-tutorials/Tutorials",
+    "filePattern": "^tutorials/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 920,
+    "forks": 843,
+    "last_updated": "2026-09-22"
+  },
+  "Linux XDP Tutorial": {
+    "github": "xdp-project/xdp-tutorial",
+    "filePattern": "^(.+)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 2978,
+    "forks": 667,
+    "last_updated": "2026-09-22"
+  },
+  "Bayesian Modelling in Python": {
+    "github": "markdregan/Bayesian-Modelling-in-Python",
+    "filePattern": "^(README)\\.md$",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 2502,
+    "forks": 404,
+    "last_updated": "2026-09-22"
+  },
+  "Docker Getting Started": {
+    "github": "docker/getting-started",
+    "filePattern": "^docs/tutorial/(.+).md",
+    "type": "Cheat Sheet",
+    "category": "DevOps",
+    "stars": 3088,
+    "forks": 6354,
+    "last_updated": "2026-09-22"
+  },
+  "Documentation Docker": {
+    "github": "docker/docs",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 4658,
+    "forks": 8486,
+    "last_updated": "2026-09-22"
+  },
+  "Docker Cheat Sheet": {
+    "github": "wsargent/docker-cheat-sheet",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 22546,
+    "forks": 4604,
+    "last_updated": "2026-09-22"
+  },
+  "Python pdb Tutorial": {
+    "github": "spiside/pdb-tutorial",
+    "filePattern": "^(README)\\.md$",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 924,
+    "forks": 115,
+    "last_updated": "2026-09-22"
+  },
+  "GDB Cheat Sheet": {
+    "github": "reveng007/GDB-Cheat-Sheet",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 33,
+    "forks": 9,
+    "last_updated": "2026-09-22"
+  },
+  "DevSecOps SLSA Framework": {
+    "github": "slsa-framework/slsa",
+    "filePattern": "^(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 1931,
+    "forks": 295,
+    "last_updated": "2026-09-22"
+  },
+  "DevSecOps Maturity Model": {
+    "github": "devsecopsmaturitymodel/DevSecOps-MaturityModel",
+    "filePattern": "^(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 587,
+    "forks": 353,
+    "last_updated": "2026-09-22"
+  },
+  "Network Segmentation Cheat Sheet": {
+    "github": "sergiomarotco/Network-segmentation-cheat-sheet",
+    "filePattern": "^(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 3496,
+    "forks": 285,
+    "last_updated": "2026-09-22"
+  },
+  "Kafka Architecture": {
+    "github": "anhthii/kafka-notes",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 128,
+    "forks": 66,
+    "last_updated": "2026-09-22"
+  },
+  "Databases Introduction": {
+    "github": "anhthii/database-notes",
+    "filePattern": "^(.+)\\.md$",
+    "category": "Architecture",
+    "type": "Book",
+    "stars": 62,
+    "forks": 22,
+    "last_updated": "2026-09-22"
+  },
+  "ElasticSearch Examples": {
+    "github": "elastic/examples",
+    "filePattern": "^(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 2647,
+    "forks": 1207,
+    "last_updated": "2026-09-22"
+  },
+  "ElasticSearch Architecture": {
+    "github": "gose/elastic-architectures",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 5,
+    "forks": 3,
+    "last_updated": "2026-02-25"
+  },
+  "Elastic Data Lake Architecture": {
+    "github": "gose/elastic-data-lake",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 25,
+    "forks": 2,
+    "last_updated": "2026-09-22"
+  },
+  "Architecture Domain Driven Hexagon": {
+    "github": "Sairyss/domain-driven-hexagon",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 14944,
+    "forks": 1562,
+    "last_updated": "2026-09-22"
+  },
+  "Architecture Microservices": {
+    "github": "rodrigorodrigues/microservices-design-patterns",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 188,
+    "forks": 70,
+    "last_updated": "2026-09-22"
+  },
+  "DDD by Examples": {
+    "github": "ddd-by-examples/library",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 5854,
+    "forks": 831,
+    "last_updated": "2026-09-03"
+  },
+  "DDD Starter Modelling": {
+    "github": "ddd-crew/ddd-starter-modelling-process",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 6007,
+    "forks": 569,
+    "last_updated": "2026-09-03"
+  },
+  "DDD Context Mapping": {
+    "github": "ddd-crew/context-mapping",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 1849,
+    "forks": 155,
+    "last_updated": "2026-09-03"
+  },
+  "DDD Miro Templates": {
+    "github": "ddd-crew/virtual-modelling-templates",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 84,
+    "forks": 12,
+    "last_updated": "2026-09-03"
+  },
+  "Design: Aggregate Design Canvas": {
+    "github": "ddd-crew/aggregate-design-canvas",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 819,
+    "forks": 77,
+    "last_updated": "2026-09-03"
+  },
+  "Design: Bounded Context Canvas": {
+    "github": "ddd-crew/bounded-context-canvas",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 2050,
+    "forks": 193,
+    "last_updated": "2026-09-03"
+  },
+  "Design: Core Domain Charts": {
+    "github": "ddd-crew/core-domain-charts",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 620,
+    "forks": 48,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation Prometheus": {
+    "github": "prometheus/docs",
+    "filePattern": "^content/docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 719,
+    "forks": 1140,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation Prometheus Alertmanager": {
+    "github": "prometheus/alertmanager",
+    "filePattern": "^docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 8602,
+    "forks": 2457,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation Prometheus Operator": {
+    "github": "prometheus-operator/prometheus-operator",
+    "filePattern": "^Documentation/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 9977,
+    "forks": 3870,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation ArgoCD": {
+    "github": "argoproj/argo-cd",
+    "filePattern": "^docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 24067,
+    "forks": 7823,
+    "last_updated": "2026-09-03"
+  },
+  "Scalable SW Architecture": {
+    "github": "Developer-Y/Scalable-Software-Architecture",
+    "category": "Architecture",
+    "type": "Awesome",
+    "stars": 2263,
+    "forks": 466,
+    "last_updated": "2026-09-03"
+  },
+  "CSS Architecture": {
+    "github": "jareware/css-architecture",
+    "category": "Architecture",
+    "type": "Cheat Sheet",
+    "stars": 2569,
+    "forks": 128,
+    "last_updated": "2026-09-03"
+  },
+  "Architecture Decision Records": {
+    "github": "joelparkerhenderson/architecture-decision-record",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 15737,
+    "forks": 2708,
+    "last_updated": "2026-05-01"
+  },
+  "Markdown Architecture Decision Records": {
+    "github": "adr/madr",
+    "category": "Architecture",
+    "type": "Cheat Sheet",
+    "stars": 2442,
+    "forks": 468,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation Telegraf": {
+    "github": "influxdata/telegraf",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 17791,
+    "forks": 5839,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation Grafana Loki": {
+    "github": "grafana/loki",
+    "filePattern": "^docs/sources/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 28830,
+    "forks": 4102,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation Grafana LokiStack Operator": {
+    "github": "grafana/loki",
+    "filePattern": "^operator/docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 28830,
+    "forks": 4102,
+    "last_updated": "2026-09-03"
+  },
+  "Documentation kubernetes": {
+    "github": "kubernetes/website",
+    "filePattern": "^content/en/docs/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 5369,
+    "forks": 15665,
+    "last_updated": "2026-09-03"
+  },
+  "Excel Cheat Sheet": {
+    "github": "emanuelefavero/excel",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 4,
+    "forks": 2,
+    "last_updated": "2026-09-03"
+  },
+  "SRE Cheat Sheet": {
+    "github": "anshudutta/sre-cheat-sheet",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 57,
+    "forks": 15,
+    "last_updated": "2026-09-14"
+  },
+  "MDN accessibility": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/accessibility/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN api": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/api/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN css": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/css/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN demos": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/demos/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN events": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/events/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN exslt": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/exslt/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN guide": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/guide/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN html": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/html/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN http": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/http/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN javascript": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/javascript/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN manifest": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/manifest/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN mathml": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/mathml/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN media": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/media/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN opensearch": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/opensearch/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN performance": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/performance/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN privacy": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/privacy/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN progressive_web_apps": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/progressive_web_apps/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN security": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/security/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10984,
+    "forks": 23241,
+    "last_updated": "2026-09-14"
+  },
+  "MDN svg": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/svg/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10991,
+    "forks": 23246,
+    "last_updated": "2026-09-15"
+  },
+  "MDN text_fragments": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/text_fragments/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10991,
+    "forks": 23246,
+    "last_updated": "2026-09-15"
+  },
+  "MDN tutorials": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/tutorials/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10991,
+    "forks": 23246,
+    "last_updated": "2026-09-15"
+  },
+  "MDN webdriver": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/webdriver/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10991,
+    "forks": 23246,
+    "last_updated": "2026-09-15"
+  },
+  "MDN xml": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/xml/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10991,
+    "forks": 23246,
+    "last_updated": "2026-09-15"
+  },
+  "MDN xpath": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/xpath/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10991,
+    "forks": 23246,
+    "last_updated": "2026-09-15"
+  },
+  "MDN xslt": {
+    "github": "mdn/content",
+    "filePattern": "^files/en-us/web/xslt/(.+)\\.md$",
+    "category": "Web",
+    "type": "Documentation",
+    "stars": 10991,
+    "forks": 23246,
+    "last_updated": "2026-09-15"
+  },
+  "Documentation docker-bench-security": {
+    "github": "docker/docker-bench-security",
+    "category": "Security",
+    "type": "Documentation",
+    "stars": 9704,
+    "forks": 1034,
+    "last_updated": "2026-09-15"
+  },
+  "Documentation kubebench": {
+    "github": "aquasecurity/kube-bench",
+    "category": "Security",
+    "type": "Documentation",
+    "stars": 8186,
+    "forks": 1338,
+    "last_updated": "2026-09-15"
+  },
+  "Free Tier SaaS List": {
+    "github": "ripienaar/free-for-dev",
+    "category": "SaaS",
+    "type": "Cheat Sheet",
+    "stars": 137508,
+    "forks": 14480,
+    "last_updated": "2026-09-15"
+  },
+  "Favicon Cheat Sheet": {
+    "github": "audreyfeldroy/favicon-cheat-sheet",
+    "category": "Web",
+    "type": "Cheat Sheet",
+    "stars": 9907,
+    "forks": 397,
+    "last_updated": "2026-09-15"
+  },
+  "Documentation Linode": {
+    "github": "linode/docs",
+    "filePatern": "^doc/(.+)/index.md",
+    "category": "SaaS",
+    "type": "Documentation",
+    "stars": 1397,
+    "forks": 1190,
+    "last_updated": "2026-09-15"
+  },
+  "Nature of Code": {
+    "github": "nature-of-code/noc-book-2023",
+    "filePattern": "^content/(.+).html$",
+    "category": "Programming",
+    "type": "Book"
+  },
+  "C4-PlantUML Documentation": {
+    "github": "plantuml-stdlib/C4-PlantUML",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 7406,
+    "forks": 1169,
+    "last_updated": "2026-09-15"
+  },
+  "SysML v2 Documentation": {
+    "github": "Systems-Modeling/SysML-v2-Release",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 915,
+    "forks": 145,
+    "last_updated": "2026-09-15"
+  },
+  "Learn UML2": {
+    "github": "imalitavakoli/learn-uml2",
+    "category": "Architecture",
+    "type": "Book",
+    "stars": 125,
+    "forks": 29,
+    "last_updated": "2026-09-15"
+  },
+  "Cloud Provider Cheat Sheets": {
+    "github": "JeffDeCola/my-cheat-sheets",
+    "filePattern": "^software/(service-.+)\\.md$",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 130,
+    "forks": 42,
+    "last_updated": "2026-09-15"
+  },
+  "Documentation juju": {
+    "github": "juju/juju",
+    "filePattern": "^doc/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 2664,
+    "forks": 599,
+    "last_updated": "2026-09-15"
+  },
+  "Naming Cheat Sheet": {
+    "github": "kettanaito/naming-cheatsheet",
+    "category": "Programming",
+    "type": "Cheat Sheet",
+    "stars": 14192,
+    "forks": 950,
+    "last_updated": "2026-09-15"
+  },
+  "nginx Admin Handbook": {
+    "github": "trimstray/nginx-admins-handbook",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 14311,
+    "forks": 1137,
+    "last_updated": "2026-09-26"
+  },
+  "golang Cheat Sheet": {
+    "github": "a8m/golang-cheat-sheet",
+    "category": "Programming",
+    "type": "Cheat Sheet",
+    "stars": 8830,
+    "forks": 1115,
+    "last_updated": "2026-09-26"
+  },
+  "Python Tutorial": {
+    "github": "Akuli/python-tutorial",
+    "category": "DevOps",
+    "type": "Book",
+    "stars": 1561,
+    "forks": 633,
+    "last_updated": "2026-09-26"
+  },
+  "Python Introcution: Byte of Python": {
+    "github": "swaroopch/byte-of-python",
+    "category": "DevOps",
+    "type": "Book",
+    "stars": 2496,
+    "forks": 1097,
+    "last_updated": "2026-09-26"
+  },
+  "Bash by Example": {
+    "github": "cheatsnake/bash-scripts-by-example",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 67,
+    "forks": 15,
+    "last_updated": "2026-09-26"
+  },
+  "Backend Development Whitepaper": {
+    "github": "cheatsnake/backend-cheats",
+    "category": "Programming",
+    "type": "Book",
+    "stars": 5188,
+    "forks": 532,
+    "last_updated": "2026-09-26"
+  },
+  "MITM Cheat Sheet": {
+    "github": "frostbits-security/MITM-cheatsheet",
+    "category": "Security",
+    "type": "Cheat Sheet",
+    "stars": 1040,
+    "forks": 150,
+    "last_updated": "2026-09-26"
+  },
+  "Globbing Cheat Sheet": {
+    "github": "begin/globbing",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 157,
+    "forks": 21,
+    "last_updated": "2026-09-26"
+  },
+  "GCP Cheat Sheet": {
+    "github": "dennyzhang/cheatsheet-gcp-A4",
+    "category": "DevOps",
+    "type": "Cheat Sheet",
+    "stars": 119,
+    "forks": 132,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation CoreDNS": {
+    "github": "coredns/coredns.io",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 191,
+    "forks": 153,
+    "last_updated": "2026-09-26"
+  },
+  "OpenSSL Architecture": {
+    "github": "openssl/web",
+    "filePattern": "^docs/(.+)\\.md$",
+    "category": "Architecture",
+    "type": "Documentation",
+    "stars": 67,
+    "forks": 71,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Certbot": {
+    "github": "certbot/certbot",
+    "filePattern": "^docs/(.+)\\.rst",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 33251,
+    "forks": 3503,
+    "last_updated": "2026-09-26"
+  },
+  "Fuzzing 101": {
+    "github": "antonio-morales/Fuzzing101",
+    "category": "Security",
+    "type": "Documentation",
+    "stars": 3892,
+    "forks": 428,
+    "last_updated": "2026-09-26"
+  },
+  "Security 101 for SaaS Startups": {
+    "github": "forter/security-101-for-saas-startups",
+    "category": "Security",
+    "type": "Documentation",
+    "stars": 4651,
+    "forks": 290,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Datadog": {
+    "github": "DataDog/documentation",
+    "filePattern": "^content/en/(.+)\\.md$",
+    "category": "DevOps",
+    "type": "Documentation",
+    "stars": 619,
+    "forks": 1330,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Compendium": {
+    "github": "kylelobo/The-Documentation-Compendium",
+    "category": "DevOps",
+    "type": "Awesome"
+  },
+  "Documentation Kata Containers": {
+    "github": "kata-containers/kata-containers",
+    "filePattern": "^docs/(.+)\\.md",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 8797,
+    "forks": 1479,
+    "last_updated": "2026-09-26"
+  },
+  "Google Engineering Practices": {
+    "github": "google/eng-practices",
+    "type": "Cheat Sheet",
+    "category": "DevOps",
+    "stars": 23300,
+    "forks": 2292,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Google GVisor": {
+    "github": "google/gvisor",
+    "filePattern": "^g3doc/(.+)\\.md",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 19422,
+    "forks": 2008,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation GRR": {
+    "github": "google/grr-doc",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 313,
+    "forks": 155,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Google OSFIR": {
+    "github": "google/osdfir-infrastructure",
+    "filePattern": "^docs/(.+)\\.md",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 214,
+    "forks": 30,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation OSV Scanner": {
+    "github": "google/osv-scanner",
+    "filePattern": "^docs/(.+)\\.md",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 11090,
+    "forks": 798,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation pprof": {
+    "github": "google/pprof",
+    "type": "Documentation",
+    "category": "Programming",
+    "stars": 9284,
+    "forks": 672,
+    "last_updated": "2026-09-26"
+  },
+  "OSS Vulnerability Guide": {
+    "github": "google/oss-vulnerability-guide",
+    "type": "Cheat Sheet",
+    "category": "Security",
+    "stars": 143,
+    "forks": 44,
+    "last_updated": "2026-09-26"
+  },
+  "Google DevOps Governance": {
+    "github": "google/devops-governance",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 84,
+    "forks": 21,
+    "last_updated": "2026-09-26"
+  },
+  "Jaeger Distributed Tracing": {
+    "github": "jaegertracing/documentation",
+    "filePattern": "^contents/docs/(.+)\\.md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 84,
+    "forks": 193,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation knative": {
+    "github": "knative/docs",
+    "filePattern": "^docs/docs/(.+)\\.md",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 5094,
+    "forks": 1267,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation OpenTelemetry": {
+    "github": "open-telemetry/opentelemetry.io",
+    "filePattern": "^content/en/(.+)\\.md",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 972,
+    "forks": 1953,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Openshift": {
+    "github": "openshift/openshift-docs",
+    "filePattern": "^([^_].+).adoc$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 883,
+    "forks": 1974,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation CircleCI": {
+    "github": "circleci/circleci-docs",
+    "filePattern": "^jekyll/_cci2/(.+).adoc$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 851,
+    "forks": 1495,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation cfengine": {
+    "github": "cfengine/documentation",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 38,
+    "forks": 77,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Cacti": {
+    "github": "Cacti/documentation",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 62,
+    "forks": 53,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path k8s": {
+    "github": "techiescamp/kubernetes-learning-path",
+    "type": "Learning Path",
+    "category": "DevOps",
+    "stars": 7641,
+    "forks": 1008,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path k8s (Microsoft)": {
+    "github": "microsoft/kubernetes-learning-path",
+    "type": "Learning Path",
+    "category": "DevOps",
+    "stars": 398,
+    "forks": 133,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path FullStack Web Dev": {
+    "github": "shovanch/fullstack-web-developer-path",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 3472,
+    "forks": 614,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path Functional Programming": {
+    "github": "imteekay/functional-programming-learning-path",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 1043,
+    "forks": 84,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path Springboot Microservices": {
+    "github": "TechPrimers/learning-path-spring-boot-microservices",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 299,
+    "forks": 157,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path Thinkerhub": {
+    "github": "tinkerhub/TinkerHub-Learning-Paths",
+    "filePattern": "^content/(.+)\\.md$",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 67,
+    "forks": 71,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path by Role": {
+    "github": "belatrix/learningPaths",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 29,
+    "forks": 28,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path System Design": {
+    "github": "TechPrimers/learning-path-system-design",
+    "type": "Learning Path",
+    "category": "Architecture",
+    "stars": 83,
+    "forks": 35,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path Senior Developer": {
+    "github": "joebew42/study-path",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 3003,
+    "forks": 348,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path Data Science": {
+    "github": "myarist/Data-Science-Learning-Path",
+    "type": "Learning Path",
+    "category": "Development"
+  },
+  "Learning Path AI Expert": {
+    "github": "AMAI-GmbH/AI-Expert-Roadmap",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 31265,
+    "forks": 2586,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation TravisCI": {
+    "github": "travis-ci/docs-travis-ci-com",
+    "filePattern": "^user/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 648,
+    "forks": 3432,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation CloudFoundry Bosh": {
+    "github": "cloudfoundry/docs-bosh",
+    "filePattern": "^content/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 37,
+    "forks": 271,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation FreeBSD": {
+    "github": "freebsd/freebsd-doc",
+    "filePattern": "^documentation/content/en/(.+).adoc$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 387,
+    "forks": 433,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation pfsense (legacy)": {
+    "github": "pfsense/docs",
+    "filePattern": "^source/(.+).rst$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 125,
+    "forks": 101,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation rundeck": {
+    "github": "rundeck/docs",
+    "filePattern": "^docs/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 90,
+    "forks": 177,
+    "last_updated": "2026-09-26"
+  },
+  "Runbooks PagerDuty Incident Response": {
+    "github": "PagerDuty/incident-response-docs",
+    "filePattern": "^docs/(.+).md$",
+    "type": "Runbook",
+    "category": "DevOps",
+    "stars": 1052,
+    "forks": 219,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation RedisLabs": {
+    "github": "RedisLabs/redislabs-docs",
+    "filePattern": "^content/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 67,
+    "forks": 457,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Chef": {
+    "github": "chef/chef-web-docs",
+    "filePattern": "^content/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 143,
+    "forks": 438,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation FluentBit": {
+    "github": "fluent/fluent-bit-docs",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 150,
+    "forks": 566,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Apache CloudStack": {
+    "github": "apache/cloudstack-docs",
+    "filePattern": "^source/(.+).rst$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 15,
+    "forks": 55,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation Flux": {
+    "github": "fluxcd/website",
+    "filePattern": "content/en/flux/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 65,
+    "forks": 402,
+    "last_updated": "2026-09-26"
+  },
+  "Coding Interview University": {
+    "github": "jwasham/coding-interview-university",
+    "type": "Documentation",
+    "category": "Development",
+    "stars": 361907,
+    "forks": 84895,
+    "last_updated": "2026-09-26"
+  },
+  "rsync Tutorial": {
+    "github": "johnjung/rsync_tutorial",
+    "type": "Cheat Sheet",
+    "category": "DevOps"
+  },
+  "TypeSpec API Generator": {
+    "github": "microsoft/typespec",
+    "type": "Documentation",
+    "category": "Architecture",
+    "stars": 5872,
+    "forks": 399,
+    "last_updated": "2026-09-26"
+  },
+  "Generating Flamegraphs": {
+    "github": "brendangregg/FlameGraph",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 19772,
+    "forks": 2109,
+    "last_updated": "2026-09-26"
+  },
+  "SprintBoot Best Practices": {
+    "github": "AnghelLeonard/Hibernate-SpringBoot",
+    "type": "Documentation",
+    "category": "Architecture",
+    "stars": 1372,
+    "forks": 535,
+    "last_updated": "2026-09-26"
+  },
+  "AWS EKS Best Practices": {
+    "github": "aws/aws-eks-best-practices",
+    "filePattern": "content/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 2160,
+    "forks": 567,
+    "last_updated": "2026-09-26"
+  },
+  "AWS ELB Best Practices": {
+    "github": "aws/aws-elb-best-practices",
+    "filePattern": "content/(.+).md$",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 34,
+    "forks": 6,
+    "last_updated": "2026-09-26"
+  },
+  "Documentation kubeseal": {
+    "github": "bitnami-labs/sealed-secrets",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 9037,
+    "forks": 767,
+    "last_updated": "2026-04-15"
+  },
+  "How to secure a Linux Server": {
+    "github": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "type": "Documentation",
+    "category": "Security",
+    "stars": 31473,
+    "forks": 2120,
+    "last_updated": "2026-09-26"
+  },
+  "The Bread Code": {
+    "github": "hendricius/the-bread-code",
+    "type": "Book",
+    "category": "DevOps",
+    "stars": 4141,
+    "forks": 181,
+    "last_updated": "2026-09-26"
+  },
+  "Terraform Zero to Hero": {
+    "github": "iam-veeramalla/terraform-zero-to-hero",
+    "type": "Documentation",
+    "category": "DevOps",
+    "stars": 4289,
+    "forks": 19645,
+    "last_updated": "2026-09-26"
+  },
+  "AWK anti-textbook": {
+    "github": "thewhitetulip/awk-anti-textbook",
+    "type": "Tutorial",
+    "category": "DevOps",
+    "stars": 741,
+    "forks": 37,
+    "last_updated": "2026-09-26"
+  },
+  "Learn sed": {
+    "github": "dohlee/learn-sed",
+    "type": "Tutorial",
+    "category": "DevOps",
+    "stars": 2,
+    "forks": 1,
+    "last_updated": "2026-09-26"
+  },
+  "Learn CLI text processing": {
+    "github": "learnbyexample/Command-line-text-processing",
+    "type": "Tutorial",
+    "category": "DevOps",
+    "stars": 10185,
+    "forks": 700,
+    "last_updated": "2026-09-26"
+  },
+  "Tutorial RabbitMQ": {
+    "github": "Frodo-Web/frodo-tips",
+    "type": "Tutorial",
+    "category": "DevOps",
+    "filePattern": "blob/main/linux-admin/(rabbitmq).md",
+    "stars": 2,
+    "forks": 0,
+    "last_updated": "2026-04-15"
+  },
+  "ArchiMate Intro": {
+    "github": "yasenstar/ArchiMetal_Practice",
+    "type": "Tutorial",
+    "category": "Architecture",
+    "stars": 40,
+    "forks": 25,
+    "last_updated": "2026-09-26"
+  },
+  "ArchiMate CheatSheet": {
+    "github": "SixArm/archimate-examples",
+    "type": "Cheat Sheet",
+    "category": "Architecture",
+    "stars": 12,
+    "forks": 4,
+    "last_updated": "2026-09-26"
+  },
+  "arc42 Documentation": {
+    "github": "arc42/docs.arc42.org-site",
+    "type": "Documentation",
+    "category": "Architecture",
+    "stars": 71,
+    "forks": 30,
+    "last_updated": "2026-09-26"
+  },
+  "awesome Architecture": {
+    "github": "mehdihadeli/awesome-software-architecture",
+    "type": "Awesome",
+    "category": "Architecture",
+    "stars": 11693,
+    "forks": 1023,
+    "last_updated": "2026-09-26"
+  },
+  "Learning Path Software Design": {
+    "github": "stemmlerjs/software-design-and-architecture-roadmap",
+    "type": "Learning Path",
+    "category": "Development",
+    "stars": 3408,
+    "forks": 416,
+    "last_updated": "2026-09-26"
+  },
+  "Solution Architecture Links": {
+    "github": "unlight/solution-architecture",
+    "type": "Awesome",
+    "category": "Architecture",
+    "stars": 698,
+    "forks": 282,
+    "last_updated": "2026-09-26"
+  },
+  "nocomplexity Architecture Playbook": {
+    "github": "nocomplexity/ArchitecturePlaybook",
+    "type": "Documentation",
+    "category": "Architecture",
+    "stars": 738,
+    "forks": 70,
+    "last_updated": "2026-09-26"
+  },
+  "Awesome Clean Architecture": {
+    "github": "dgomezs/awesome-clean-architecture",
+    "type": "Awesome",
+    "category": "Architecture"
+  },
+  "Feature Sliced Frontend Design": {
+    "github": "feature-sliced/documentation",
+    "type": "Tutorial",
+    "category": "Architecture",
+    "filePattern": "^i18n/en/docusaurus-plugin-content-docs/current/get-started/(tutorial).md$",
+    "stars": 2370,
+    "forks": 224,
+    "last_updated": "2026-09-26"
+  },
+  "What is Enterprise Architecture": {
+    "github": "justinamiller/EnterpriseArchitecture",
+    "type": "Documentation",
+    "category": "Architecture",
+    "stars": 259,
+    "forks": 58,
+    "last_updated": "2026-09-26"
+  },
+  "Tomato SW Architecture": {
+    "github": "sivaprasadreddy/tomato-architecture",
+    "type": "Tutorial",
+    "category": "Architecture",
+    "stars": 812,
+    "forks": 37,
+    "last_updated": "2026-09-26"
+  },
+  "Monitoring with Prometheus": {
+    "github": "psibi/prometheus",
+    "type": "Book",
+    "category": "DevOps",
+    "stars": 5,
+    "forks": 2,
+    "last_updated": "2026-09-26"
+  },
+  "Zabbix Book": {
+    "github": "Trikke76/Zabbix-Book",
+    "type": "Book",
+    "category": "DevOps",
+    "stars": 38,
+    "forks": 6,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Data Engineer": {
+    "github": "Devinterview-io/data-engineer-interview-questions",
+    "type": "Interview",
+    "category": "DevOps",
+    "stars": 103,
+    "forks": 26,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Data Analyst": {
+    "github": "Devinterview-io/data-analyst-interview-questions",
+    "type": "Interview",
+    "category": "ML",
+    "stars": 91,
+    "forks": 13,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Dimensionality": {
+    "github": "Devinterview-io/curse-of-dimensionality-interview-questions",
+    "type": "Interview",
+    "category": "ML",
+    "stars": 8,
+    "forks": 1,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Apache Spark": {
+    "github": "Devinterview-io/apache-spark-interview-questions",
+    "type": "Interview",
+    "category": "ML",
+    "stars": 40,
+    "forks": 20,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io XML": {
+    "github": "Devinterview-io/xml-interview-questions",
+    "type": "Interview",
+    "category": "DevOps",
+    "stars": 3,
+    "forks": 2,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Architecture": {
+    "github": "Devinterview-io/software-architecture-interview-questions",
+    "type": "Interview",
+    "category": "Architecture",
+    "stars": 169,
+    "forks": 44,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io SOA": {
+    "github": "Devinterview-io/service-oriented-architecture-interview-questions",
+    "type": "Interview",
+    "category": "Architecture",
+    "stars": 15,
+    "forks": 5,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Microservices": {
+    "github": "Devinterview-io/microservices-interview-questions",
+    "type": "Interview",
+    "category": "Architecture",
+    "stars": 146,
+    "forks": 60,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io NOSQL": {
+    "github": "Devinterview-io/nosql-interview-questions",
+    "type": "Interview",
+    "category": "DevOps",
+    "stars": 31,
+    "forks": 10,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Loadbalancing": {
+    "github": "Devinterview-io/load-balancing-interview-questions",
+    "type": "Interview",
+    "category": "DevOps",
+    "stars": 23,
+    "forks": 11,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Middleware": {
+    "github": "Devinterview-io/layering-and-middleware-interview-questions",
+    "type": "Interview",
+    "category": "Architecture",
+    "stars": 16,
+    "forks": 3,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io Docker": {
+    "github": "Devinterview-io/docker-interview-questions",
+    "type": "Interview",
+    "category": "DevOps",
+    "stars": 106,
+    "forks": 48,
+    "last_updated": "2026-09-26"
+  },
+  "devinterview.io DDD": {
+    "github": "Devinterview-io/domain-driven-design-interview-questions",
+    "type": "Interview",
+    "category": "Architecture",
+    "stars": 22,
+    "forks": 6,
+    "last_updated": "2026-09-29"
+  },
+  "devinterview.io kubernetes": {
+    "github": "Devinterview-io/kubernetes-interview-questions",
+    "type": "Interview",
+    "category": "DevOps",
+    "stars": 66,
+    "forks": 47,
+    "last_updated": "2026-09-29"
+  },
+  "devinterview.io CAP theorem": {
+    "github": "Devinterview-io/cap-theorem-interview-questions",
+    "type": "Interview",
+    "category": "Architecture",
+    "stars": 24,
+    "forks": 9,
+    "last_updated": "2026-09-29"
+  },
+  "devinterview.io availability": {
+    "github": "Devinterview-io/availability-and-reliability-interview-questions",
+    "type": "Interview",
+    "category": "DevOps",
+    "stars": 15,
+    "forks": 5,
+    "last_updated": "2026-09-29"
+  },
+  "devinterview.io AWS": {
+    "github": "Devinterview-io/aws-interview-questions",
+    "type": "Interview",
+    "category": "Cloud",
+    "stars": 351,
+    "forks": 265,
+    "last_updated": "2026-09-29"
+  },
+  "devinterview.io Azure": {
+    "github": "Devinterview-io/azure-interview-questions",
+    "type": "Interview",
+    "category": "Cloud",
+    "stars": 37,
+    "forks": 36,
+    "last_updated": "2026-09-29"
+  },
+  "Everything curl": {
+    "github": "curl/everything-curl",
+    "type": "Book",
+    "category": "DevOps",
+    "stars": 2266,
+    "forks": 338,
+    "last_updated": "2026-09-29"
+  },
+  "Linux Kernel Docs": {
+    "github": "bryancandi/LinuxKernelDocs",
+    "type": "Documentation",
+    "category": "Development",
+    "filePattern": "^assetpack/src/main/assets/(.+\\.html)$",
+    "stars": 1,
+    "forks": 0,
+    "last_updated": "2026-09-29"
+  },
+  "Documentation Ansible": {
+    "github": "ansible/ansible-documentation",
+    "type": "Documentation",
+    "category": "DevOps",
+    "filePattern": "docs/docsite/rst/(.+\\.rst)$",
+    "stars": 181,
+    "forks": 857,
+    "last_updated": "2026-09-29"
+  },
+  "Embedded New Testament": {
+    "github": "theEmbeddedGeorge/theEmbeddedNewTestament.github.io",
+    "type": "Documentation",
+    "category": "Development",
+    "stars": 994,
+    "forks": 203,
+    "last_updated": "2026-09-29"
+  },
+  "x86 bare metal examples": {
+    "github": "cirosantilli/x86-bare-metal-examples",
+    "type": "Tutorial",
+    "category": "Development",
+    "stars": 5373,
+    "forks": 432,
+    "last_updated": "2026-09-29"
+  },
+  "CSS Profile": {
+    "github": "apleasantview/css-profile",
+    "type": "Tutorial",
+    "category": "Development"
+  }
+}

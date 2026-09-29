@@ -1,6 +1,0 @@
-
-# Links
-
-- [Neighbourhood Network](http://visjs.org/examples/network/exampleApplications/neighbourhoodHighlight.html)
-- [d3 Force Tutorial](http://www.puzzlr.org/force-graphs-with-d3/)
-

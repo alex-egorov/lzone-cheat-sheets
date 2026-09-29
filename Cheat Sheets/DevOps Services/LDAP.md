@@ -1,0 +1,35 @@
+## CLI
+
+You can use `curl` for LDAP connections!
+
+    curl -v -u "<service account>:<password>" ldaps://server:636 -d "(objectClass=*)"
+
+Or use `ldapsearch`
+
+    ldapsearch -H ldaps://<host>:636 -D "<bind DN>" -w <password> -b "<base DN>"  "(sAMAccountName=myuser)" -x
+
+Connect with special CA cert
+
+    env LDAPTLS_CACERT=myca.crt ldapsearch [...]
+
+To debug connection or query errors set a trace level with `-d`
+
+    ldapsearch -d 5 [...]
+
+## Schema
+
+Dump schema with
+
+    ldapsearch -H ldapi:/// -Y EXTERNAL -b cn=config
+
+or as root with slapcat
+
+    slapcat | less -i
+    slapcat | grep "^dn: cn=.*schema"          # Get installed schemata
+    slapcat -b <schema dn>                     # Print schema only
+
+## Replication
+
+Check OpenLDAP replication with
+
+    ldapsearch -H ldapi:/// -Y EXTERNAL -s base -b "<base DN>" contextCSN
